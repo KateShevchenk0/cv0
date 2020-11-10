@@ -1,0 +1,67 @@
+body{
+     background-color: #FFC0CB;
+   }
+   hr{
+border-style: none;
+border-top-style: dashed;
+border-color: magenta;
+border-width: 5px;
+width: 10%;
+}
+
+h1{
+color: #of4c75;
+}
+div{
+  background-color: pink;
+}
+span{
+  display: inline-block;
+   background-color: #7FFFD4;
+  height: 200px;
+  width: 200px;
+
+}
+p{
+  display: inline-block;
+  background-color: magenta;
+  height: 200px;
+  width: 200px;
+  pisition: absolute;
+}
+
+h1{
+  margin-top: 0;
+}
+h3{
+color: #of4c75;
+}
+.redh3{
+  color:red;
+}
+.greenh3{
+  color:pink;
+border-color: pink;
+}
+#dotted{
+  dotted-top-style: dotted;
+}
+.georgia{
+  font-family: Georgia, serif;
+}
+.main-heading {
+    color: red;
+}
+h1 {
+    color: red;
+}/*Specificity*/
+body {
+    color: brown;
+}
+span {
+    color: green;
+}/*Inheritance*/
+
+#mainheading{
+  color:green;
+}

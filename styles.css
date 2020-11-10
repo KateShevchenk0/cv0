@@ -1,0 +1,38 @@
+body{
+     background-color: #FFC0CB;
+   }
+   hr{
+border-style: none;
+border-top-style: dashed;
+border-color: magenta;
+border-width: 5px;
+width: 10%;
+}
+
+h1{
+color: #of4c75;
+}
+div{
+  background-color: magenta;
+}
+span{
+  display: block;
+   background-color: #7FFFD4;
+  height: 200px;
+  width: 200px;
+  body
+  }
+
+  p{
+     display: inline-block;
+    background-color: pink;
+    height: 200px;
+    width: 200px;
+  }
+
+h1{
+  margin-top: 0;
+}
+h3{
+color: #of4c75;
+}
